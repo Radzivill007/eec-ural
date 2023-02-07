@@ -1,0 +1,10 @@
+{
+    "firebase" : {
+        "apiKey": "AIzaSyDwPIrrnQHBMoZmQLzktjXreB6wamXg7cU",
+        "authDomain": "next-shop-c8b3a.firebaseapp.com",
+        "projectId": "next-shop-c8b3a",
+        "storageBucket": "next-shop-c8b3a.appspot.com",
+        "messagingSenderId": "576429969429",
+        "appId": "1:576429969429:web:e6d10852f7bed896527e1c"
+    }
+}
